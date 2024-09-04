@@ -1,5 +1,9 @@
 # 💻Configuracion_Nvim
-Archivo de personalización y configuración de entorno de desarrollo de Neo Vim.
+Archivo de personalización y configuración de entorno de desarrollo de Neo Vim mediante diferentes tipos de plugin desarrollados con Vim o Lua.
+Configuracion que mejora la estetica del entorno de Nvim ademas de estar configurado para tener diferentes de atajos y comodidades tales como:
+- Globalizacion del Portapapeles
+- Numeracion relativa
+- Configuracion de atajos
 
 ![Vista Nvim](https://github.com/user-attachments/assets/c254ba1a-16a0-4255-80f4-126bb9ef388a)
 
