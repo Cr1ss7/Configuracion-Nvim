@@ -10,6 +10,10 @@ Configuracion que mejora la estetica del entorno de Nvim ademas de estar configu
 ## 🏭Manejador de plugins
 Para esta confiuguración se hace uso del gestor de plugins [VimPlug](https://github.com/junegunn/vim-plug)
 
+## :construction: Requisitos previos
+- Nodejs
+- Alguna fuente de [Nerd Font](https://www.nerdfonts.com/) con terminacion `Mono`
+
 ## 🤓Plugins utilizados
 Los plugins utilizados son los siguientes:
 - [Telescope](https://github.com/nvim-telescope/telescope.nvim)
